@@ -1,7 +1,7 @@
 # FastAlign
 Sequence aligner written in Java.
 
-# FastAlign [![JitPack Build Version](https://jitpack.io/v/Birincification/FastAlign.svg)](https://jitpack.io/#Birincification/FastAlign) ![Github All Releases](https://img.shields.io/github/release/Birincification/FastAlign/all.svg?style=popout&colorB=green)
+# FastAlign [![JitPack Build Version](https://jitpack.io/v/Birincification/FastAlign.svg)](https://jitpack.io/#Birincification/FastAlign) ![Github All Releases](https://img.shields.io/github/release/Birincification/FastAlign.svg?style=popout&colorB=green)
 
 
 **Set up maven Project with this lib:**
